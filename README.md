@@ -16,5 +16,10 @@
 </a>
 
 ### <h2>Skills</h2>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="45" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" />
 
