@@ -5,6 +5,6 @@
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" width="25px" />
 </a>
-<a href="https://www.instagram.com/rof1yev.js/" target="_blank">
-  <img src="https://flyclipart.com/thumb2/telegram-logo-png-image-information-398254.png" width="25px" />
+<a href="https://t.me/rof1yev" target="_blank">
+  <img src="https://toppng.com/uploads/preview/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" width="25px" />
 </a>
