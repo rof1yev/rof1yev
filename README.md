@@ -18,5 +18,5 @@
 ### <h2>Skills</h2>
 
 <code>
-  <img src="https://img.favpng.com/18/19/13/html-logo-png-favpng-xw7LS6AupC3yqakqAhCEpSeVA.jpg" width="30" />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="30" />
 </code>
