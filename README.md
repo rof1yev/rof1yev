@@ -4,7 +4,7 @@
 <h3>Contact me</h3>
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" width="25px" />
-</a>
+</a> &nbsp;
 <a href="https://t.me/rof1yev" target="_blank">
-  <img src="https://toppng.com/uploads/preview/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" width="25px" />
+  <img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" width="25px" />
 </a>
