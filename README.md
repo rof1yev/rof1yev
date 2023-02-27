@@ -22,5 +22,5 @@
 <span><img src="https://cdn-icons-png.flaticon.com/512/6422/6422232.png" width="40" height="45" /></span>
 <span><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="50" height="45" /></span>
 <span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
-<span><img src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" width="50" height="45" /></span>
+<span><img src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.1.0/1674710651199/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="45" /></span>
 <span><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="50" height="45" /></span>
