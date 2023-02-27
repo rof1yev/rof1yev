@@ -3,7 +3,6 @@
 <i><b>I really like developing projects and learning new things.</b></i><br/>
 <h3>Contact me</h3>
 
-<hr />
 <a href="https://t.me/rof1yev" target="_blank">
   <img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" width="25px" />
 </a>
@@ -15,5 +14,5 @@
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="25px" />
 </a>
-<hr />
-### Skills
+
+### <h2>Skills</h2>
