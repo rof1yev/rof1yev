@@ -6,5 +6,5 @@
   <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" width="25px" />
 </a> &nbsp;
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
-  <img src="https://i.pinimg.com/originals/19/6c/51/196c516cb1f4a01275fcca7071e19edb.png" width="25px" />
+  <img src="https://www.seekpng.com/png/detail/237-2372802_telegram-logo-png-transparent-telegram-logo-telegram-icon.png" width="25px" />
 </a>
