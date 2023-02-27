@@ -9,5 +9,5 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank" style="margin-top: 1px;">
-  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="27px" />
+  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="30px" />
 </a>
