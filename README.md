@@ -3,9 +3,9 @@
 <i><b>I really like developing projects and learning new things.</b></i><br/>
 <h3>Contact me</h3>
 
-<div>
+<div style="display: 'felx', align-items: 'center'">
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="28px" />
+  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="30px" />
 </a>
 <a href="https://t.me/rof1yev" target="_blank">
   <img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" width="25px" />
