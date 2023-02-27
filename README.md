@@ -18,4 +18,4 @@
 ### <h2>Skills</h2>
 <span><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" /></span>
 <span><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="34" /></span>
-<span><img src="https://www.seekpng.com/png/full/142-1424501_bootstrap-comments-black-and-white-bootstrap-icon.png" width="33" /></span>
+<span><img src="https://www.seekpng.com/png/full/142-1424501_bootstrap-comments-black-and-white-bootstrap-icon.png" width="50" /></span>
