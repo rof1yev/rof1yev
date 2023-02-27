@@ -3,5 +3,5 @@
 <i><b>I really like developing projects and learning new things.</b></i>
 <h3>Contact me</h3>
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
-  <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" />
+  <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" width="30px" />
 </a>
