@@ -3,7 +3,7 @@
 <i><b>I really like developing projects and learning new things.</b></i><br/>
 <h3>Contact me</h3>
 
-<div style="display: 'felx', align-items: 'center'">
+<div hieght="40px" style="display: 'felx', align-items: 'center'">
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="30px" />
 </a>
