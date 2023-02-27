@@ -16,3 +16,7 @@
 </a>
 
 ### <h2>Skills</h2>
+
+<code>
+  <img src="https://img.favpng.com/18/19/13/html-logo-png-favpng-xw7LS6AupC3yqakqAhCEpSeVA.jpg" width="30" />
+</code>
