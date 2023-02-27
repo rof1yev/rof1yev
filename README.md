@@ -4,4 +4,7 @@
 <h3>Contact me</h3>
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" width="25px" />
+</a> <br/>
+<a href="https://www.instagram.com/rof1yev.js/" target="_blank">
+  <img src="[https://toppng.com/uploads/preview/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png](https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png)" width="25px" />
 </a>
