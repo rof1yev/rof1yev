@@ -20,4 +20,4 @@
 <span><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="38" height="50" /></span> &nbsp;
 <span><img src="https://www.seekpng.com/png/full/142-1424501_bootstrap-comments-black-and-white-bootstrap-icon.png" width="40" height="45" /></span> &nbsp;
 <span><img src="https://cdn-icons-png.flaticon.com/512/6422/6422232.png" width="40" height="45" /></span>
-<span><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-24.png" width="55" height="50" /></span>
+<span><img src="https://w7.pngwing.com/pngs/528/187/png-transparent-javascript-computer-icons-programming-language-node-js-world-wide-web-text-logo-monochrome-thumbnail.png" width="55" height="50" /></span>
