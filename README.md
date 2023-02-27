@@ -17,4 +17,4 @@
 
 ### <h2>Skills</h2>
 <span><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="50" /></span>
-<span><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="50" /></span>
+<span><img src="https://seeklogo.com/images/C/css-logo-FD0B685547-seeklogo.com.png" width="50" /></span>
