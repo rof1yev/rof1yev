@@ -13,5 +13,5 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" width="25px" />
+  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="25px" />
 </a>
