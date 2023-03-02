@@ -24,4 +24,4 @@
 <span><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="50" height="45" /></span>
 <span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
 <span><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="50" height="45" /></span>
-<span><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="50" height="50" /></span>
+<span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span>
