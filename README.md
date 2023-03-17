@@ -1,5 +1,5 @@
 ### 
-<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="Fon" width="100%" height="300px" style="object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="Fon" width="100%" height="300px" style="object-fit: cover" />
 <br/>
 <h2>Hello! I'm Rofiyev Dilshod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" /></h2>
 <b>I'm a Front-End developer.</b> <br />
