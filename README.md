@@ -1,5 +1,5 @@
 ### 
-<img src="https://chennai.vit.ac.in/wp-content/uploads/2021/08/Types-of-Software-Developer.jpg" alt="Fon" style="width: '100%" />
+<img src="https://chennai.vit.ac.in/wp-content/uploads/2021/08/Types-of-Software-Developer.jpg" alt="Fon" width="100%" />
 <br/>
 <h2>Hello! I'm Rofiyev Dilshod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" /></h2>
 <b>I'm a Front-End developer.</b> <br />
