@@ -14,6 +14,10 @@
 <a href="https://www.instagram.com/rof1yev.js/" target="_blank">
   <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="25px" />
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
+  <img src="https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/linkedin-logo.png" width="25px" />
+</a>
 
 ### <h2>Skills</h2>
 <span><img src="https://icons-for-free.com/download-icon-html+html5+icon-1320186681398289636_512.png" width="50" height="50" /></span>
