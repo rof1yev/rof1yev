@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
-  <img src="https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/linkedin-logo.png" width="25px" />
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="25px" />
 </a>
 
 ### <h2>Skills</h2>
