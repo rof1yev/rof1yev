@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
-  <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-HD.png" width="25px" />
+  <img style='transform: scale(1.3)' src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-HD.png" width="25px" />
 </a>
 
 ### <h2>Skills</h2>
