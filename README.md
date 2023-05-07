@@ -26,6 +26,7 @@
 <span><img src="https://www.seekpng.com/png/full/142-1424501_bootstrap-comments-black-and-white-bootstrap-icon.png" width="40" height="45" /></span> &nbsp;
 <span><img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-5285308-4406745.png" width="50" height="50" /></span>
 <span><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="50" height="45" /></span>
+<span><img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" width="50" height="45" /></span>
 <span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
 <span><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="50" height="45" /></span> &nbsp;
 <span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span>
