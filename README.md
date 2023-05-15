@@ -30,3 +30,4 @@
 <span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
 <span><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="50" height="45" /></span> &nbsp;
 <span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span>
+<span><img src="https://cdn-icons-png.flaticon.com/512/5968/5968566.png" width="45" height="45" /></span>
