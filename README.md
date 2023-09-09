@@ -33,4 +33,4 @@
 <span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span> &nbsp;
 <span><img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="43" height="43" /></span> &nbsp;
-<span><img src="https://ilink.dev/promo/assets/img/logos/nestjs.webp" width="43" height="43" /></span> &nbsp;
+<span><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-fo1q60vg.png" width="43" height="43" /></span> &nbsp;
