@@ -34,5 +34,3 @@
 <span><img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-fo1q60vg.png" width="43" height="43" /></span> &nbsp;
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
