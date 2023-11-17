@@ -31,7 +31,7 @@
 <span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
 <span><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="50" height="45" /></span> &nbsp;
 <span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span> &nbsp;
-<span><img src="[https://friconix.com/png/fi-cnsuxx-nodejs.png](https://cdn.iconscout.com/icon/free/png-256/free-vuejs-5285323-4406760.png)" width="43" height="43" /></span> &nbsp;
+<span><img src="https://cdn.icon-icons.com/icons2/3005/PNG/512/vue_js_icon_188136.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="43" height="43" /></span> &nbsp;
 <span><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-fo1q60vg.png" width="43" height="43" /></span> &nbsp;
