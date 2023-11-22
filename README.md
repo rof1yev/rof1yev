@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
+  <img height="160" src="https://i.pinimg.com/originals/26/32/ed/2632ed38f455851dd9adf61c89417d90.png"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Hi There!👋 <br>My name is Dilshod. I am a Full Stack Developer</h3>
+<h2 align="center">Hi There!👋 <br>My name is Dilshod. I am a Full Stack Developer</h2>
 
 ###
 
@@ -47,9 +47,3 @@
   <img src="https://streak-stats.demolab.com?user=Rofiyev&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="125" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Rofiyev/Rofiyev/output/snake.svg" alt="Snake animation" />
-
-###
