@@ -35,5 +35,5 @@
 ###
 
 <div align="center">
-  <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
 </div>
