@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
+<img align="right" height="160" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
 
 ###
 
