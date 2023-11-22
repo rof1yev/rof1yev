@@ -39,3 +39,7 @@
   <img src="https://streak-stats.demolab.com?user=Rofiyev&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="125" alt="languages graph"  />
 </div>
+
+<a href="https://platane.github.io/snk">
+  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+</a>
