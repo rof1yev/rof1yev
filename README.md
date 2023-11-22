@@ -1,6 +1,16 @@
-<h2 align="center">Hi There!👋 <br>My name is Dilshod. I am a Full Stack Developer</h2>
+<div align="center">
+  <img height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
+</div>
 
 ###
+
+<br clear="both">
+
+<h3 align="center">Hi There!👋 <br>My name is Dilshod. I am a Full Stack Developer</h3>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,10 +40,16 @@
 
 ###
 
-<img align="right" height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rofiyev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=radical&locale=en&hide_border=true" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rofiyev&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="125" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Rofiyev/Rofiyev/output/snake.svg" alt="Snake animation" />
+
+###
