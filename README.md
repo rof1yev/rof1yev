@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<picture>
+<picture style="width:100%;">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
