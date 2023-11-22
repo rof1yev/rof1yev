@@ -12,7 +12,7 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rof1yev/" target="_blank">
-  <img src="https://assets.stickpng.com/images/6293712d3e40f0cd1c5df47f.png" width="25px" />
+  <img src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_instagram-512.png" width="25px" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
