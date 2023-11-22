@@ -4,15 +4,15 @@
 
 <h2>Contact Me</h2>
 <a href="https://t.me/rof1yev" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" width="25px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8220/8220513.png" width="25px" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/?ref=tn_tnmn" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" width="25px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Facebook%2BIcon%2BBlack.png" width="25px" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rof1yev/" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="25px" />
+  <img src="https://assets.stickpng.com/images/6293712d3e40f0cd1c5df47f.png" width="25px" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
