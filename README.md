@@ -1,63 +1,47 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Gif">
-</p>
+<h3 align="center">Hi There!👋 <br>My name is Dilshod. I am a Full Stack Developer</h3>
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+###
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
+###
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
+<img align="right" height="160" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaACNPuXFu4FlErqQp2RP4GwSq3c3v7aDX8HB-gihzOk8tE1JGa1cE9xNCol_X7L9I_zg&usqp=CAU"  />
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-<!--
-How to make this gif ?
+###
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rofiyev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
+</div>
 
-<h2>Contact Me</h2>
-<a href="https://t.me/rof1yev" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/8220/8220513.png" width="25px" />
-</a>
+###
 
-<a href="https://www.facebook.com/?ref=tn_tnmn" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Facebook%2BIcon%2BBlack.png" width="25px" />
-</a>
+<br clear="both">
 
-<a href="https://www.instagram.com/rof1yev/" target="_blank">
-  <img src="https://www.svgrepo.com/show/364604/instagram-logo-fill.svg" width="28px" />
-</a>
+<img src="https://raw.githubusercontent.com/Rofiyev/Rofiyev/output/snake.svg" alt="Snake animation" />
 
-<a href="https://www.linkedin.com/in/rofiyev-dilshod-25635a270/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384030.png" width="25px" />
-</a>
-
-### <h2>Skills</h2>
-<span><img src="https://icons-for-free.com/download-icon-html+html5+icon-1320186681398289636_512.png" width="50" height="50" /></span>
-<span><img src="https://www.citypng.com/public/uploads/small/11662224348dive19y2yfxhcf5ymxrmuwjfwqwfndj6x2jy9ab9n9o2cobcfv0ksoufkh0ucal88lvftnlmkocgeavwlbrcuysvkhz0ju0jsz83.png" width="50" height="50" /></span> &nbsp;
-<span><img src="https://cdn-icons-png.flaticon.com/512/6422/6422232.png" width="45" height="45" /></span> &nbsp;
-<span><img src="https://www.seekpng.com/png/full/142-1424501_bootstrap-comments-black-and-white-bootstrap-icon.png" width="40" height="45" /></span> &nbsp;
-<span><img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-5285308-4406745.png" width="50" height="50" /></span>
-<span><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="50" height="45" /></span>
-<span><img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-2336947-1982828.png" width="50" height="50" /></span>
-<span><img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" width="50" height="45" /></span>
-<span><img src="https://static.thenounproject.com/png/3451812-200.png" width="50" height="45" /></span>
-<span><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="50" height="45" /></span> &nbsp;
-<span><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" width="45" height="45" /></span> &nbsp;
-<span><img src="https://cdn.icon-icons.com/icons2/3005/PNG/512/vue_js_icon_188136.png" width="43" height="43" /></span> &nbsp;
-<span><img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" width="43" height="43" /></span> &nbsp;
-<span><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="43" height="43" /></span> &nbsp;
-<span><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-fo1q60vg.png" width="43" height="43" /></span> &nbsp;
+###
