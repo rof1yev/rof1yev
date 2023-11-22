@@ -8,7 +8,7 @@
 </a>
 &nbsp;
 <a href="https://www.facebook.com/?ref=tn_tnmn" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/986/520/non_2x/facebook-logo-facebook-logo-transparent-facebook-icon-transparent-free-free-png.png" width="25px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Facebook%2BIcon%2BBlack.png" width="25px" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/rof1yev/" target="_blank">
