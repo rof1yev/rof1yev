@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-[![trophy](https://github-profile-trophy.vercel.app/?Rofiyev=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rofiyev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture style="width:100%;">
   <source
