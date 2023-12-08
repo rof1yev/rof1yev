@@ -2,8 +2,7 @@
   <img height="240" height="240" style="object-fit:cover;" src="https://i.pinimg.com/originals/26/32/ed/2632ed38f455851dd9adf61c89417d90.png"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=500&color=DDDDDD&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=Hi+There!%F0%9F%91%8B;My+Name+is+Dilshod;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=500&color=DDDDDD&center=true&vCenter=true&multiline=true&random=false&width=1000&height=auto&lines=Hi+There!%F0%9F%91%8B;My+Name+is+Dilshod;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <hr />
 
