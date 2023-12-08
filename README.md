@@ -43,6 +43,8 @@
 
 <br clear="both">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture style="width:100%;">
   <source
     media="(prefers-color-scheme: dark)"
