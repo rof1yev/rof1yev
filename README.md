@@ -43,8 +43,6 @@
 
 <br clear="both">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rofiyev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 <picture style="width:100%;">
   <source
     media="(prefers-color-scheme: dark)"
