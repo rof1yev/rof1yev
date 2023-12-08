@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=500&color=DDDDDD&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=Hi+There!%F0%9F%91%8B;My+Name+is+Dilshod;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<br clear="both">
+
 <hr />
 
 <div align="center">
