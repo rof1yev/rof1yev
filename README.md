@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://cdn.softwarereviews.com/production/logos/offerings/7500/medium/Hygraph_Logo__1_-removebg-preview.png?1678995933" height="45" alt="hygraph logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" height="45" alt="stylus logo"  />
+  <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="45" alt="markdown logo"  /> -->
 <!--   <img width="12" /> -->
 <!--   <img src="https://cdn.simpleicons.org/codepen/000000" height="45" alt="codepen logo"  /> -->
