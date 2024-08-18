@@ -42,6 +42,8 @@
 <!--   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="45" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://cdn.softwarereviews.com/production/logos/offerings/7500/medium/Hygraph_Logo__1_-removebg-preview.png?1678995933" height="45" alt="hygraph logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" height="45" alt="stylus logo"  />
