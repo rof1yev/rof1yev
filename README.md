@@ -97,6 +97,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rof1yev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=radical&locale=en&hide_border=true" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rof1yev&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rof1yev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="170" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rof1yev&layout=compact" />
+
+  ![Waketime](https://github-readme-stats.vercel.app/api/wakatime?username=Rof1yev&layout=compact)]
 </div>
 
 <br clear="both">
