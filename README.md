@@ -1,3 +1,5 @@
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="header" width="100%" />
+
 <div align="center">
   <img height="240" height="240" style="object-fit:cover;" src="https://i.pinimg.com/originals/26/32/ed/2632ed38f455851dd9adf61c89417d90.png"  />
 </div>
@@ -123,3 +125,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<div>
+<img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/footer.webp" alt="footer" width="100%" />
+  
+</div>
