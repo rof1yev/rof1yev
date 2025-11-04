@@ -6,12 +6,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=DDDDDD&center=true&vCenter=true&multiline=true&random=false&width=1000&height=140&lines=Hi+There!%F0%9F%91%8B;My+Name+is+Dilshod;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <hr />
+  <h4 align="center">Let's Stay Connected 
+    <span>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" height="15" />
+    </span>
+  </h4>
+  
   <div align="center"> 
     <a href="https://instagram.com/rof1yev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:rofiyevdilshod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/dilshod-rofiyev-25635a270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
+  
 <div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
