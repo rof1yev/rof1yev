@@ -112,7 +112,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rof1yev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="170" alt="languages graph"  /> -->
 
   <br />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rof1yev&layout=compact" alt="Waketime" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rof1yev&layout=compact&cache_seconds=0" />
 </div>
 
 <br clear="both">
