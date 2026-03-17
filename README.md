@@ -112,7 +112,22 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rof1yev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="170" alt="languages graph"  /> -->
 
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rof1yev&layout=compact&cache_seconds=0" />
+  <picture>
+  <!-- Dark mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rof1yev&theme=dark" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  
+  <!-- Light mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rof1yev&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+
+  <!-- Fallback -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rof1yev" />
+</picture>
 </div>
 
 <br clear="both">
