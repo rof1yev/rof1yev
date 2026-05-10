@@ -13,9 +13,9 @@
 <hr />
 
 <h4 align="center">Let's Stay Connected &nbsp;
-  <span>
+  <!-- <span>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" height="15" />
-  </span>
+  </span> -->
 </h4>
   
   <div align="center"> 
